@@ -3,7 +3,7 @@
 
 .env
 *secret
-!*secret*.
+!*secret*
 venv/
 env/
 
